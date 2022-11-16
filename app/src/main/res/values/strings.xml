@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First_In_Class_Activity</string>
+    <string name="bmi">BMI</string>
+    <string name="enter_your_height">Enter Your height</string>
+    <string name="height">Height</string>
+    <string name="enter_your_weight">Enter Your Weight</string>
+    <string name="weight">Weight</string>
+    <string name="check_if_mele">check if mele</string>
+    <string name="are_you_male">Are you male?</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+</resources>
